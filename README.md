@@ -5,14 +5,14 @@
 Outil permettant de transformer les ***notes brutes*** du test **NP-MOT** en ***écarts-types*** et en ***classes***
 
 
-`Cotation.ods`
+Téléchargement : [Cotation.ods](https://github.com/buckTarle/Cotation_test_NP_MOT/raw/main/Cotation.ods)
 
 
 
 Ce document est conçu pour être ouvert avec **[LibreOffice 7.0.3](https://fr.libreoffice.org/download/telecharger-libreoffice/ "libreOffice 7.0.3")** ( les versions supérieures devraient être supportées )
 ### Déverouiller le fichier
 
-Par defaut le document est verouillé par mot de pase pour eviter les mauvaises manipulations
+Par defaut le document est verouillé par mot de passe pour eviter les mauvaises manipulations
 
 Si vous souhaiter le deverouiller cliquez sur : Outil -> Protéger la feuille 
 - le mot de passe est "belette"
