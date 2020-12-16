@@ -1,6 +1,6 @@
 
 
-# Cotation test NP-MOT v1
+# Cotation test NP-MOT v1.0
 
 Outil permettant de transformer les ***notes brutes*** du test **NP-MOT** en ***écarts-types*** et en ***classes***
 
