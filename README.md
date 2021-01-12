@@ -1,6 +1,11 @@
 
 
-# Cotation test NP-MOT v1.0
+# Cotation test NP-MOT v1.1
+
+### Historique des changement
+- v1.1 : Remplissage des données par feuilles dediées
+
+
 
 Outil permettant de transformer les ***notes brutes*** du test **NP-MOT** en ***écarts-types*** et en ***classes***
 
