@@ -2,10 +2,6 @@
 
 # Cotation test NP-MOT v1.1
 
-### Historique des changement
-- v1.1 : Remplissage des données par feuilles dediées
-
-
 
 Outil permettant de transformer les ***notes brutes*** du test **NP-MOT** en ***écarts-types*** et en ***classes***
 
@@ -15,6 +11,11 @@ Téléchargement : [Cotation.ods](https://github.com/buckTarle/Cotation_test_NP_
 
 
 Ce document est conçu pour être ouvert avec **[LibreOffice 7.0.3](https://fr.libreoffice.org/download/telecharger-libreoffice/ "libreOffice 7.0.3")** ( les versions supérieures devraient être supportées )
+
+
+### Historique des changement
+- v1.1 : Remplissage des données par feuilles dediées
+
 ### Déverouiller le fichier
 
 Par defaut le document est verouillé par mot de passe pour eviter les mauvaises manipulations
